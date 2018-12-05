@@ -5,11 +5,7 @@
     <AssemblyName>TelegramNetAPIBrowser(ASP.NET Core)</AssemblyName>
     <RootNamespace>Tg_NetAPIBrowser</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
+   
   <ItemGroup>
     <PackageReference Include="AngleSharp" Version="0.9.11" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
