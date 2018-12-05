@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <AssemblyName>TelegramNetAPIBrowser(ASP.NET Core)</AssemblyName>
+    <AssemblyName>TelegramNetAPIBrowser</AssemblyName>
     <RootNamespace>Tg_NetAPIBrowser</RootNamespace>
   </PropertyGroup>
    
